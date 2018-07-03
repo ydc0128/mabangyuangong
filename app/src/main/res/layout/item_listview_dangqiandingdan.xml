@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:descendantFocusability="blocksDescendants"
+    android:orientation="vertical"
+    android:id="@+id/ll_dangqiandingdan">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:background="@color/beijing"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:text="@string/tv_mydingdan_listview_dingdanhao"
+                android:textColor="@color/ziti_hei"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/tv_dangqiandingdan_listview_dingdanhao"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="25dp"
+                android:textSize="16sp"
+                android:textColor="@color/ziti_hui"/>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:id="@+id/tv_dingdan_contacts"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="联系电话："
+                android:layout_marginLeft="10dp"
+                android:textColor="@color/ziti_hei"
+                android:textSize="16sp"
+                android:layout_gravity="center_vertical"/>
+            <TextView
+                android:id="@+id/tv_dangqiandingdan_listview_phone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:textColor="@color/ziti_hui"
+                android:textSize="16sp" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_weight="1" />
+
+            <ImageView
+                android:id="@+id/iv_dangqiandingdan_listview_phone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/shouji" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:text="@string/tv_mydingdan_listview_car"
+                android:textSize="16sp"
+                android:textColor="@color/ziti_hei"/>
+
+            <TextView
+                android:id="@+id/tv_dangqiandingdan_listview_car"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="25dp"
+                android:textSize="16sp"
+                android:textColor="@color/ziti_hui"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:text="车辆地址："
+                android:textSize="16sp"
+                android:textColor="@color/ziti_hei"/>
+
+            <TextView
+                android:id="@+id/tv_dangqiandingdan_listview_dizhi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:textSize="16sp"
+                android:maxLines="1"
+                android:textColor="@color/ziti_hui"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_shijianleixing"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:text="预约时间："
+                android:textSize="16sp"
+                android:textColor="@color/ziti_hei"/>
+
+            <TextView
+                android:id="@+id/tv_dangqiandingdan_listview_shijian"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:textSize="16sp"
+                android:textColor="@color/ziti_hui"/>
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"
+            android:text="服务项目："
+            android:textSize="16sp"
+            android:textColor="@color/ziti_hei"/>
+        <com.example.administrator.ydxcfwpt.View.MyListView
+            android:id="@+id/lv_dangqiandingdan_fiwuxiangmu"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="1dp"
+            android:background="#ffffff" />
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_alignParentRight="true">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:text="扣代金券："
+                android:textSize="16sp"
+                android:textColor="@color/ziti_hei"/>
+                <TextView
+                    android:id="@+id/tv_dingdan_daijinquan"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:textSize="16sp"
+                    android:textColor="@color/red"
+                    android:layout_marginTop="5dp"
+                    />
+        </LinearLayout>
+        </RelativeLayout>
+
+<RelativeLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_alignParentRight="true">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="5dp"
+        android:text="合计金额："
+        android:textSize="16sp"
+        android:textColor="@color/ziti_hei"/>
+    <TextView
+        android:id="@+id/tv_dangqiandingdan_listview_heji"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:textSize="16sp"
+        android:textColor="@color/red"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="10dp"
+        />
+    <TextView
+        android:id="@+id/tv_dangqiandingdan_fuwufei"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:textSize="16sp"
+        android:textColor="@color/red"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="10dp"
+        />
+</LinearLayout>
+
+</RelativeLayout>
+    </LinearLayout>
+    <RelativeLayout
+        android:id="@+id/rl_fuwushijian"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="12dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        >
+        <LinearLayout
+            android:id="@+id/ll_daojishi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_alignParentRight="true"
+            android:visibility="gone"
+            >
+            <TextView
+                android:id="@+id/tv_fuwushijian"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="距离开始服务还有30分钟"
+                android:textColor="@color/ziti_hei"
+                android:textSize="16sp"
+                />
+
+        </LinearLayout>
+    </RelativeLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#f2f2f2" />
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="150px"
+        android:layout_marginTop="1dp"
+        android:orientation="horizontal"
+        android:paddingBottom="5dp"
+        android:paddingTop="5dp">
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1dp"
+            android:layout_weight="1" />
+
+        <Button
+            android:id="@+id/btn_dangqiandingdan_listview_zhuanchu"
+            android:layout_width="185px"
+            android:layout_height="96px"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/btn_blue_bg"
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp"
+            android:text="转出"
+            android:textColor="@android:color/holo_blue_light"
+            android:textSize="16sp"
+            android:layout_gravity="center_vertical"
+            android:visibility="invisible"
+            />
+        <Button
+            android:id="@+id/btn_dangqiandingdan_listview_jiedan"
+            android:layout_width="185px"
+            android:layout_height="96px"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/btn_blue_bg"
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp"
+            android:text="接单"
+            android:textColor="@android:color/holo_blue_light"
+            android:textSize="16sp"
+            android:layout_gravity="center_vertical"
+            />
+    </LinearLayout>
+</LinearLayout>

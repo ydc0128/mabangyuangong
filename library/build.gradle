@@ -1,0 +1,19 @@
+apply plugin: 'com.android.library'
+android {
+    signingConfigs {
+    }
+    compileSdkVersion 16
+    buildToolsVersion '26.0.2'
+    defaultConfig {
+        minSdkVersion 16
+    }
+    buildTypes {
+        debug {
+        }
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+}

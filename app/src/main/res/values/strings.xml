@@ -1,0 +1,267 @@
+<resources>
+    <string name="app_name">马帮员工端</string>
+
+    <string name="tv_main_title">马帮员工端</string>
+    <string name="tv_changyongdizhi_title">常用地址</string>
+    <string name="tv_changyongdizhi_jia">家：</string>
+    <string name="tv_changyongdizhi_list_jia">常用地址</string>
+    <string name="tv_changyongdizhi_gongsi">公司：</string>
+    <string name="tv_changyongdizhi_list_gongsi">常用地址</string>
+    <string name="tv_changyongdizhi_changyongdizhi">常用地址</string>
+    <string name="tv_changyongdizhi_list_changyongdizhi_list">常用地址</string>
+    <string name="btn_changyongdizhi_baocun">保存</string>
+    <string name="tv_ditu_title">选择地址</string>
+    <string name="tv_ditu_submit">保存</string>
+    <string name="tv_main_shichang">在线时长</string>
+    <string name="tv_dingdanxiangqing_title">订单详情</string>
+    <string name="tv_dingdanxiangqing_dingdanhao">订单号　：</string>
+    <string name="tv_dingdanxiangqing_xiadanshijian">下单时间：</string>
+    <string name="tv_dingdanxiangqing_fuwucheliang">服务车辆：</string>
+    <string name="tv_dingdanxiangqing_cheliangjibie">车辆级别：</string>
+    <string name="tv_dingdanxiangqing_cheliangweizhi">车辆位置：</string>
+    <string name="tv_dingdanxiangqing_lianxiren">联系人　：</string>
+    <string name="tv_dingdanxiangqing_lianxiren_name">肖先生</string>
+    <string name="tv_dingdanxiangqing_shoujihao">联系方式：</string>
+    <string name="tv_dingdanxiangqing_fuwuxiangmu">服务项目：</string>
+    <string name="tv_dingdanxiangqing_hejijine">合计金额：</string>
+    <string name="tv_dingdanxiangqing_hejijine_zongjia">270</string>
+    <string name="tv_dingdanxiangqing_xichegong_name">徐师傅</string>
+    <string name="tv_qingjia_xichegong_name">徐师傅</string>
+    <string name="tv_dingdanxiangqing_xichegong_gonghao">工　　号：</string>
+    <string name="tv_pingjia_xichegong_gonghao">工　　号：</string>
+    <string name="tv_dashang_xichegong_gonghao">工　　号：</string>
+    <string name="tv_dingdanxiangqing_xichegong_gonghao_name">00000001</string>
+    <string name="tv_pingjia_xichegong_gonghao_name">00000001</string>
+    <string name="tv_dashang_xichegong_gonghao_name">00000001</string>
+    <string name="tv_dingdanxiangqing_xichegong_lianxifangshi">联系方式：</string>
+    <string name="tv_pingjia_xichegong_lianxifangshi">联系方式：</string>
+    <string name="tv_dashang__xichegong_lianxifangshi">联系方式：</string>
+    <string name="tv_main_shouyi">今日收益</string>
+    <string name="tv_main_wodezuobiao">我的坐标：</string>
+    <string name="tv_dingdan_listview_dingdanzhuangtai">已完成</string>
+    <string name="tv_main_mydingdan">我的订单</string>
+    <string name="tv_dingdanxiangqing_quxiao">取消订单</string>
+    <string name="btn_main_jiedanshezhi">接单\n设置</string>
+    <string name="tv_dingdanxiangqing_chepaihao">陕A27V96</string>
+    <string name="btn_main_dangqianzhuangtai">下线中</string>
+    <string name="phone">02987365853</string>
+    <string name="btn_main_qiehuanzhuangtai">状态\n切换</string>
+    <string name="tv_register">注册</string>
+    <string name="tv_register_phone">请输入手机号</string>
+    <string name="tv_register_code">请输入验证码</string>
+    <string name="btn_register_code">获取验证码</string>
+    <string name="btn_register_next">下一步</string>
+    <string name="tv_login">登录</string>
+    <string name="tv_touxiang">头像</string>
+    <string name="tv_xingming">姓名</string>
+    <string name="btn_mycar_bianji">编辑</string>
+    <string name="tv_xingbie">性别</string>
+    <string name="tv_lianxifangshi">联系方式</string>
+    <string name="tv_register_login">已经有账号了?登录</string>
+    <string name="tv_phone">手机号</string>
+    <string name="tv_baocun">保存</string>
+    <string name="tv_code">验证码</string>
+    <string name="tv_pwd">设置密码</string>
+    <string name="tv_surepwd">确认密码</string>
+    <string name="tv_login_pwd">请输入密码</string>
+    <string name="tv_login_phone">请输入手机号</string>
+    <string name="btn_login_wangjimima">忘记密码</string>
+    <string name="btn_login">登录</string>
+    <string name="btn_login_register">注册账号</string>
+    <string name="tv_addpwd">设置密码</string>
+    <string name="tv_addpwd_pwd">请输入密码</string>
+    <string name="tv_addpwd_okpwd">请确认密码</string>
+    <string name="tv_addpwd_zhuyi">密码长度必须大于等于6位，小于等于16位</string>
+    <string name="tv_addpwd_submit">提交</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="tv_login_duanxin">短信登录</string>
+    <string name="tv_login_mima">密码登录</string>
+    <string name="tv_code_title">短信验证</string>
+    <string name="drawer_open">打开侧滑</string>
+    <string name="drawer_close">关闭侧滑</string>
+    <string name="tv_cehua_huiyuan">会员</string>
+    <string name="tv_cehua_yonghuming">用户名</string>
+    <string name="tv_cehua_ziliao">我的资料</string>
+    <string name="tv_cehua_qianbao">我的钱包</string>
+    <string name="tv_cehua_yeji">我的业绩</string>
+    <string name="tv_cehua_dingdan">我的订单</string>
+    <string name="tv_cehua_shezhi">我的设置</string>
+    <string name="tv_cehua_kefu">帮助</string>
+    <string name="tv_mymoney_title">我的钱包</string>
+    <string name="tv_mymoney_dingdanjiangjin">营业额(元)：</string>
+    <string name="tv_mymoney_tixian">申请提现</string>
+    <string name="rb_mymoney_zuotian">昨天</string>
+    <string name="rb_mymoney_yixingqi">一星期</string>
+    <string name="rb_mymoney_yigeyue">一个月</string>
+    <string name="tv_mymoney_heji">合计金额(元)：</string>
+    <string name="tv_work_title">赶往途中</string>
+    <string name="tv_work_chepaihao">车牌号：</string>
+    <string name="tv_work_dingdanhao">订单号：</string>
+    <string name="tv_work_jutidizhi">具体地址：</string>
+    <string name="tv_work_chepaihao_name">陕A84V96</string>
+    <string name="tv_work_name">杨先生</string>
+    <string name="tv_work_phone">18717309732</string>
+    <string name="tv_work_dizhi">地址：</string>
+    <string name="tv_work_dizhi_name">汉城壹号附近</string>
+    <string name="tv_work_diyibu">1.如果您已到达目的地，请点击按钮“我已到达”</string>
+    <string name="tv_work_diyibu_2">2.找到目标车辆，检查车辆外观状况并拍照</string>
+    <string name="tv_work_dierbu">2.检查完成后，拍照并点击“开始服务”</string>
+    <string name="tv_work_disanbu">3.洗车完成后请先拍照，并点击“服务完成”</string>
+    <string name="tv_work_disibu">4.服务完成后，请选择您接下来的状态</string>
+    <string name="btn_work_daoda">我已到达</string>
+    <string name="btn_work_kaishifuwu">开始服务</string>
+    <string name="btn_work_jianchawancheng">检查完成</string>
+    <string name="btn_work_fuwuwancheng">服务完成</string>
+    <string name="btn_work_jixugongzuo">继续工作</string>
+    <string name="btn_work_quxiuxi">休息一会</string>
+    <string name="tv_mydingdan_title">我的订单</string>
+    <string name="rb_mydingdan_dengdaifuwu">等待服务</string>
+    <string name="rb_mydingdan_zhengzaifuwu">正在服务</string>
+    <string name="rb_mydingdan_yiwancheng">已完成</string>
+    <string name="rb_mydingdan_yiquxiao">已取消</string>
+    <string name="tv_mydingdan_listview_car">车牌号：</string>
+    <string name="tv_mydingdan_listview_dingdanhao">订单号：</string>
+    <string name="tv_mydingdan_listview_dizhi">地址：</string>
+    <string name="tv_mydingdan_listview_shijian">时间：</string>
+    <string name="tv_mydingdan_listview_xiangmu">项目：</string>
+    <string name="tv_mydingdan_listview_heji">合计：</string>
+    <string name="tv_main_shuaxin">刷新</string>
+    <string name="btn_main_listview_kaishifuwu">开始服务</string>
+    <string name="tv_myshezhi_xiugaimima">修改密码</string>
+    <string name="tv_myshezhi_changyongdizhi">常用地址</string>
+    <string name="tv_myshezhi_xiwanche">洗完车，给我打电话</string>
+    <string name="tv_myshezhi_yuyintishi">语音提示</string>
+    <string name="tv_myshezhi_changjianwenti">常见问题</string>
+    <string name="tv_myshezhi_shiyongxuzhi">使用须知</string>
+    <string name="tv_myshezhi_fuwutiaokuan">服务条款</string>
+    <string name="tv_myshezhi_guanyuwomen">关于我们</string>
+    <string name="tv_myshezhi_tuichudenglu">退出登录</string>
+    <string name="tv_myshezhi_title">我的设置</string>
+    <string name="tv_duanxinxiugai_title">短信修改密码</string>
+    <string name="tv_duanxinxiugai_hint">请输入验证码</string>
+    <string name="tv_duanxinxiugai_tishi">设置密码前请先完成验证,已发送验证码短信到</string>
+    <string name="tv_duanxinxiugai_code">重新发送验证码</string>
+    <string name="tv_duanxinxiugai_next">下一步</string>
+    <string name="tv_yuanmimaxiugai_title">修改密码</string>
+    <string name="et_yuanmimaxiugai_pwd">请输入原密码</string>
+    <string name="et_yuanmimaxiugai_newpwd">请输入新密码</string>
+    <string name="tv_shezhimima_title">设置密码</string>
+    <string name="tv_shezhimima_tishi">设置成功后，下次可直接使用新密码登录账户</string>
+    <string name="et_shezhimima_hint">6~16位数字与字母组合</string>
+    <string name="tv_shezhimima_queding">确定</string>
+    <string name="tv_myziliao_title">我的资料</string>
+    <string name="tv_myziliao_jibenxinxi">基本信息</string>
+    <string name="tv_myziliao_yinhangkaxinxi">银行卡信息(必须是本人持有的银行卡)</string>
+    <string name="tv_myziliao_shenfenzhengxinxi">身份证信息</string>
+    <string name="tv_myziliao_xingming">姓名：</string>
+    <string name="tv_myziliao_bianji">编辑</string>
+    <string name="tv_myziliao_xingbie">性别：</string>
+    <string name="tv_myziliao_leibie">类别：</string>
+    <string name="tv_myziliao_shoujihao">手机号：</string>
+    <string name="tv_myziliao_shenfenzhenghao">身份证号：</string>
+    <string name="tv_myziliao_kaihuhang">开户行：</string>
+    <string name="tv_myziliao_kaihuhangdizhi">开户行地址：</string>
+    <string name="tv_myziliao_yinhangkahao">银行卡号：</string>
+    <string name="tv_myziliao_shenfenzhengzhengmian">身份证正面照片：</string>
+    <string name="tv_myziliao_shenfenzhengfanmian">身份证反面照片：</string>
+    <string name="tv_myziliao_shouchishenfenzheng">手持身份证照片：</string>
+    <string name="tv_myziliao_tijiao">提交</string>
+    <string name="tv_dingdanxiangqing_cheliangweizhi_weizhi">汉城壹号A区，小区正门口</string>
+    <string name="btn_yindaoye3_title">立即体验</string>
+    <string name="tv_dingdanxiangqing_shoujihao_name">18717309732</string>
+    <string name="btn_dingdanxiangqing_zailaiyidan">开始服务</string>
+    <string name="tv_content_gongsijieshao">公司简介</string>
+    <string name="tv_content_fuwutiaokuan">马帮APP服务协议</string>
+    <string name="tv_content_chongzhixieyi">充值协议</string>
+    <string name="tv_content_chongzhixieyi_content">\u3000\u3000尊敬的客户，为保障您的合法权益，请您在点击“立即充值”按钮前，完整、仔细阅读本协议，当您点击“立即充值”按钮时，即视为您已同意并接受本协议的约定：\n
+1、充值方式：支付宝、微信。\n
+2、客户向马帮公司充值的金额会在客户“账户余额”中显示。\n
+3、账户余额由充值金额、充值赠送金额（其他赠送或补偿金额）和充值前账户余额三部分组成。\n
+4、系统不定期发布优惠活动，如充值前“账户余额”为100元，本次实际充值金额100元，送20元，则本次充值后的“账户余额”中增加“120元”金额，该“送20元”即为充值赠送金额，加上充值前“账户余额”100元，充值后的“账户余额”为“220元”。\n
+5、客户结合自身情况自行决定充值次数及金额，没有次数及上限的限制；充值后的账户余额没有有效期的限制，直至消费清零为止；充值后的账户余额概不退还现金价值。\n
+6、客户选择的订单消费金额直接从“账户余额”中抵扣，不足部分由客户及时充值支付。\n
+7、充值赠送金额仅用作客户消费服务支出，不作抵扣违约金、赔偿金等之用。</string>
+    <string name="tv_content_fuwutiaokuan_content">\u3000\u3000我陕西马帮网络科技有限公司（以下简称马帮公司）竭诚为您上门提供车外清洗、标准清洗、发动机清洗、打蜡、室内清洗、空调消毒等一站式汽车保养服务。为明确权利义务，保障双方合法权益，请您认真阅读以下服务协议内容，同意并自觉履行协议条款，您可在协议结尾处勾选" 我已认真阅读并自愿接受《 马帮APP服务协议》" ，点击【立即注册】按钮注册成功后获得马帮APP会员资格，本服务协议成立并生效，对双方具有法律约束力。\n
+一、关于服务\n
+1.1我马帮公司自主研发并享有独立知识产权的本APP服务平台，可通过“第三方应用平台”、“二维码”、“公司官网”指定的授权链接下载运行。任何其他非指定授权链接、版本一律视为侵权，由此给客户造成的一切损失与我公司无关。如发生以上情况，客户可及时向公司举报，电话：029-87365853  ，我公司将及时采取法律措施予以严厉打击。\n
+1.2客户下载使用本APP所产生的流量费、通讯费等相关资费、通过平台浏览、搜索信息而产生的费用及损失，均由客户自行承担；运行维护本APP所产生的一切费用由马帮公司承担。\n
+1.3本次注册免费，除客户下单定制服务支付服务费用外，系统不再收取其他任何费用。\n
+1.4服务人员经过筛选、培训、具备相应资格后上岗。所提供的服务安全、专业、保质、高效。服务人员系每项服务的实际承揽人，承担服务质量责任；甲方对其平台和管理服务负责。\n
+1.5注册人必须是具备相应民事权利和行为能力的自然人、法人或其他组织，否则由其监护人、法定代理人或其他有权人承担责任。如服务现场确认的订单提报人为限制或无民事行为能力人的，经订单提报人现场电话向其监护人、法定代理人或其他有权人追认后，服务人员方可实施服务，否则，马帮公司可以单方终止服务，订单提报人所交费用视为对马帮公司的赔偿不予退还。\n
+1.6客户登陆系统界面后的服务流程：根据系统提示，如实完整输入拟提报服务所必须录入的信息；选定服务项目并提交订单；订单受理成功；向马帮公司指定账户支付服务费用（非马帮公司授权指定账户付款无效，由此产生的损失客户自担，请客户务必确认好实际收款人为马帮公司指定授权账户）；马帮公司确认费用实际到账并派单；客户等待服务人员中；将车辆停放在安全且方便服务人员服务的场所；服务人员到场；配合服务人员做好服务前核查工作；监督配合服务人员现场服务工作；验收服务；验收合格（如有打赏支付到马帮公司指定账户）；验收不合格重做或修正或采取其他补救措施至合格；服务终止。\n
+1.7服务人员白班服务时间段：早6：00分至晚8:59分；夜班服务时间段：晚21:00分至早5:59分。系统按时间段计费，夜班自动核加费用，计费方式为正常服务的二倍。\n
+1.8马帮公司客服人员对系统实时监控，负责服务的沟通、协调工作，服务时间为早9：00分至晚6:00分。客户如有任何疑问，可通过系统咨询模块或客服电话垂询，客服人员将以饱满的热情和优质的服务为客户及时解决问题。\n
+1.9客户认为服务不合格的，可以要求服务人员重做、优化、整改直至合格。合格的标准：执行马帮公司规定的服务操作流程，最终解释权归马帮公司享有。\n
+1.10服务人员实际完成服务后，系统会向客户发送“订单已完成”通知，客户在收到通知后半小时内未明示提出异议的，视为马帮公司已交付合格的工作成果，双方服务即行终止。\n
+1.11马帮公司为更好的服务客户，会不定期在平台上发布有关车辆保养、安全出行、天气预报、保养产品等增值服务信息，客户完全理解马帮公司是在提供增值服务，不存在客户主张骚扰、投诉、屏蔽等情况。\n
+二、关于责任\n
+2.1本系统24小时为客户提供在线服务，但因地震、洪水，风暴等不可抗力因素、政府行为、黑客攻击、计算机病毒侵入、客户信息保管不善、将信息告知他人、现有技术合理瑕疵、第三方链接、客户未及时更新系统或第三方服务器中断、系统正常维护、信息网络连接故障、电脑、通讯故障、电力故障、罢工、劳动争议、暴乱、火灾、爆炸、战争所导致的平台无法正常使用或产生的信息安全事宜、损失，马帮公司会在第一时间积极处理，在系统无法正常使用期间给客户带来的不便，请客户予以充分谅解，由此产生的一切直接间接损失马帮公司不承担任何责任。\n
+2.2客户在使用本APP、提供服务的全过程中，如产生任何争执，包括但不限于与客服人员、现场服务人员发生口角等，应尽速联系公司通过正常途径解决。如发生任何暴力行为、故意损害情节，双方可在协商无果的情况下立即报警处理，服务人员对其过错或过失行为给客户造成的损害、损失承担责任。\n
+2.3客户可以申请注销或冻结其账户，马帮公司根据客户的选择，自客户申请之日起注销删除其账户所有注册信息或冻结其账户信息。账户被冻结的，自冻结之日起一年内，客户可以申请恢复，一年后未申请恢复的，客户同意马帮公司注销其账户信息。注销或冻结账户不免除客户已造成的对马帮公司或其他第三人侵权损害责任的承担。\n
+2.4客户如认为服务质量瑕疵导致车辆损坏及其他财产损失的，三方先行协商处理；协商不成的，三方可以共同委托有专业资质的人员进行鉴定，鉴定费由客户先行垫付，鉴定结果系服务人员责任的，服务人员承担客户鉴定费等一切直接损失；系客户责任的，一切损失包括马帮公司或服务人员的商誉/名誉、人员误工、交通费、通讯费等由客户承担。各方都有责任的，各自承担相应的比例。无法共同委托鉴定人员的，客户可以先行委托有专业资质人员鉴定，马帮公司或服务人员对鉴定结果有异议的，可以另行委托鉴定。通过鉴定无法达成一致意见的，任何一方均可以诉诸法律途径。\n
+三、关于支付\n
+3.1支付方式：支付宝、微信全额单次服务付款（单次付款），不享受任何优惠活动（首次注册消费服务除外）；预先充值定额方式付款(充值付款)，余额在“账户余额”中显示，享受马帮公司的优惠活动，订单费用从账户余额中直接扣除。\n
+3.2客户付费后甲方未开始服务前或服务不合格的情况下，客户可以要求退款。服务开始后，客户单方要求终止服务的，马帮公司不予退款。一旦办理退款则双方所订立的单项服务合约即行终止。服务开始前，客户要求退款的，由此给马帮公司造成的交通费、人工、燃油费、保险费、固定资产折旧费等合理费用由客户承担，马帮公司可以直接从客户已付款中抵扣。\n
+3.3客户在现场给服务人员的打赏（小费奖励），视为对马帮公司的赠与，自马帮公司实际到账时起生效，嗣后，客户不得以任何理由要求退还，但马帮公司自愿退还的除外。\n
+四、关于信息安全\n
+4.1客户须妥善保管其注册信息，包括但不限于登陆名、密码、注册手机号等。如因登陆名或密码丢失或被盗，可通过以下途径取回：1）致电马帮公司客服人员，电话： 029-87365853 ，2）手机验证方式；3）邮箱验证方式；4）马帮公司授权许可的其他方式。如果客户发现其信息被盗用，或者其他权利被侵害，请及时告知马帮公司并同时提供如下信息和材料：1) 侵犯客户权利的信息的网址、系统、电子信息；2)对该信息享有合法权利的证明，包括但不限于本人真实相关信息及原始注册信息。马帮公司采取措施需要一定的合理时间，客户理解对马帮公司在采取措施前后已发生的损害后果马帮公司不承担任何责任。\n
+4.2如发现本系统任何内容不符合法律规定，或不符合本协议规定的，客户应及时通知马帮公司。\n
+4.3系统为给客户提供正常服务，需自动调取客户的位置、手机号码及识别码等信息，客户表示同意和理解。未经客户允许，马帮公司不会泄漏客户的信息，但涉及国家机关依法调查取证、侦查、执行等强制合法的原因除外。\n
+4.4平台所使用的任何相关软件、程序、内容，包括但不限于版面、设计、构架作品、图片、档案等所有构成平台的要素，均由马帮公司依法享有相应的知识产权，包括但不限于著作权、商标权、专利权或其它专属权利。未经马帮公司授权许可，不得利用还原工程、反向组译技术，或以其它方法破译平台技术，不得窃取、复制、修改、出租、出借、出售、转让、传播、转移、转授权、伪造本平台所使用的上述任何技术要素；不得披露、使用或者允许他人使用以前项手段获取的任何要素。\n
+4.5违反第4.4条规定之一切行为，将被视为侵权，马帮公司郑重声明：将保留采取一切法律手段追究侵权人民事、刑事等相关法律责任，由此产生的相关一切损失费用，均由侵权人承担。\n
+4.6客户可以在系统评价模块发布评价信息，也可以在以后升级的其他可发布信息的模块发布信息，但不得发布含有以下内容的的信息：\n
+1) 煽动抗拒、破坏宪法和法律、行政法规实施的；\n
+2) 煽动颠覆国家政权，推翻社会主义制度的；\n
+3) 煽动分裂国家、破坏国家统一的；\n
+4) 煽动民族仇恨、民族歧视，破坏民族团结的；\n
+5) 捏造或者歪曲事实，散布谣言，扰乱社会秩序的；\n
+6) 宣扬封建迷信、淫秽、色情、赌博、暴力、凶杀、恐怖、教唆犯罪的；\n
+7) 公然侮辱他人或者捏造事实诽谤他人的，或者进行其他恶意攻击的；\n
+8) 损害国家机关信誉的；\n
+9）发布其他违反法律、法规、损害社会公共利益及公序良俗的。\n
+4.7不得以营利或其他不正当目的利用系统上的任何数据信息，包括但不限于以复制、传播、修改等任何方式使用系统上展示的资料（包括第三人发布的评价等信息）。\n
+4.8不使用任何装置、软件或例行程序干预或试图干预系统的正常运作或正在系统上进行的任何活动。不得采取任何将导致不合理的庞大数据负载影响系统的正常运行和他人的正常使用。\n
+4.9禁止发表、传送、传播（包括链接方式）、储存侵害他人知识产权、商业秘密权等合法权利的内容，包含病毒、木马、定时炸弹等可能对系统造成伤害或影响其稳定性的内容。\n
+4.10禁止实施危害计算机网络安全的行为，包括但不限于：使用未经许可的数据或进入未经许可的服务器/帐号；未经允许进入公众计算机网络或者他人计算机系统并删除、修改、增加存储信息；未经许可，企图探查、扫描、测试本平台系统或网络的弱点或其它实施破坏网络安全的行为；企图干涉、破坏本平台系统或网站的正常运行，故意传播恶意程序或病毒以及其他破坏干扰正常网络信息服务的行为。\n
+4.11客户违反上述第4.6-4.10条约定时，马帮公司有权采取相应措施，包括但不限于直接屏蔽、删除侵权信息、降低信用值或直接停止提供服务，且无须提前通知或征得客户的同意。如客户导致马帮公司受到任何第三方的索赔，或受到任何行政处罚，客户应对马帮公司造成的一切损失承担赔偿责任，马帮公司视情节保留追究法律责任的权利并不承担任何责任。\n
+五、其它\n
+5.1马帮公司根据国家法律法规规定、公司的业务升级情况同步修订本协议及系统模块，客户继续使用本系统的，视为同步接受协议修订、变更之一切内容。关于修订情况，马帮公司会在系统公示。\n
+六、争议解决\n
+6.1本协议之效力、解释、履行、变更、与争议解决均适用中华人民共和国的法律，如无相关法律规定的，则应参照适用行业惯例、国际习惯。\n
+6.2因本协议产生之争议，首先应本着友好和平的方式协商解决；协商不成的，可以共同提交甲方主要办事机构所在地的人民调解委员会调处；无法达成一致调解意见的，由甲方主要办事机构所在地的基层人民法院诉讼处理。\n
+6.3本协议最终解释权归马帮网络有限公司所有。
+        （以下空白无正文）</string>
+    <string name="tv_content_gongsijieshao_neirong">\u3000\u3000陕西马帮网络科技有限公司成立于2017年  月（简称马帮公司），公司注册资金 50 万元，位于古都西安钟楼北。公司竭诚为客户提供车外清洗、标准清洗、发动机清洗、打蜡、室内清洗、空调消毒等一站式汽车养护服务。
+公司秉承“用心服务、客户至上”宗旨，从成立之初的5名服务人员，迅速扩充到现在的30余人，业绩逐月攀升。服务人员分布在城区各地，通过公司自主研发的APP指令，能快速反应、机动灵活、高效保质的完成客户各项订单服务；公司线上客服更是为客户传送贴心的360度增值服务。
+服务所用之洗车机等设备工具均通过公司严格精选，清洗液、等耗材环保无污染，切实保障了服务的品质和安全。
+“行悠悠之茶马古道，送浓浓之马帮文化”，我公司将传承马帮之勤勉、创新、守信精神，喜迎八方客户加入马帮大家庭。让我们一起共享马帮、安全马帮、快乐马帮！</string>
+    <string name="tv_guanyuwomen_gongsi">公司介绍</string>
+    <string name="tv_guanyuwomen_guanwang">官方网站</string>
+    <string name="tv_guanyuwomen_youxiang">客服邮箱</string>
+    <string name="tv_guanyuwomen_kefu">客服电话</string>
+    <string name="tv_guanyuwomen_title">关于我们</string>
+    <string-array name="stream_entries">
+        <item>通话</item>
+        <item>系统</item>
+        <item>铃声</item>
+        <item>音乐</item>
+        <item>闹铃</item>
+        <item>通知</item>
+    </string-array>
+    <string name="text_tts_source_en">iFLYTEK is a national key software enterprise dedicated to the research of intelligent speech and language technologies, development of software and chip products, provision of speech information services, and integration of E-government systems. The intelligent speech technology of iFLYTEK, the core technology of the company, represents the top level in the world.</string>
+    <string-array name="stream_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="voicer_cloud_entries">
+    <item>小燕—女青、中英、普通话</item>
+    </string-array>
+    <string-array name="voicer_cloud_values">
+    <item>xiaoyan</item>
+    </string-array>
+    <string name="tts_toast_format" formatted="false">缓冲进度为%d%%，播放进度为%d%%</string>
+</resources>
